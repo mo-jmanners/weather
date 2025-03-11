@@ -3,6 +3,7 @@
 ## Today
 
 Cloudy with a chance of Sun.
+Temperature: 16C
 
 ## Tomorrow
 
